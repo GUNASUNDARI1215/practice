@@ -2,18 +2,18 @@
 
 #include<stdio.h>
 
-Second_largest(int arr1[],int size)
+Second_smallest(int arr1[],int size)
 {
 	int i;
-	for(i=size-2;i>0;i--)
+	for(i=1;i<size;i++)
 	{
-		if(arr1[i]==arr1[size-1])
+		if(arr1[i]==arr1[0])
 		{
-			printf("There is no second largest element");
+			printf("There is no second smallest element");
 			return 0;
 		}
 	}
-	printf("\nThe second largest element is %d",arr1[size-2]);
+	printf("\nThe second smallest element is %d",arr1[1]);
 	return 0;	
 }
 
@@ -68,7 +68,7 @@ int main()
 	
 	sort(arr,0,size-1);
 
-	Second_largest(arr,size);
+	Second_smallest(arr,size);
 	
 	return 0;
 }
