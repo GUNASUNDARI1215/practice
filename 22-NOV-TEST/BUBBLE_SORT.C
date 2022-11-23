@@ -6,7 +6,7 @@ Bubble_sort(int array[],int arr_size)
 {
 	int i,j,temp;
 	
-	for(i=1;i<arr_size-1;i++)
+	for(i=0;i<arr_size-1;i++)
 	{
 		for(j=0;j<arr_size-1;j++)
 		{
