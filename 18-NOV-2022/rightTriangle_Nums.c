@@ -1,4 +1,4 @@
-/***  C program for Right Triangle Number Pattern Printing*******
+/***  C program for Right Triangle Number Pattern Printing *******
 
 input: rows=4
 ouput:  1

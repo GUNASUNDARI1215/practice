@@ -1,4 +1,4 @@
-/******* C program for Increment Numbered Square Printing *******
+/******* C program for Increment Numbered Square Printing ******
 
 Input: rows=4
 ouput: 1111
