@@ -1,4 +1,4 @@
-/****C Program to Remove Spaces from a String****/
+/***C Program to Remove Spaces from a String****/
 #include<stdio.h>
 #include<string.h>
 #define SIZE 100

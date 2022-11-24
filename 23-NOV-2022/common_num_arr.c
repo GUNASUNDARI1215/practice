@@ -1,4 +1,4 @@
-/* C program to print the same numbers in same index of two arrays *
+/*** C program to print the same numbers in same index of two arrays *
 
 Input: array1: {1,2,3,4}
 	   array2: {1,5,3,5}

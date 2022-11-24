@@ -1,4 +1,4 @@
-/******** C program to print the given string in right angle triangle ********
+/******* C program to print the given string in right angle triangle ********
 
 Input: Hello
 

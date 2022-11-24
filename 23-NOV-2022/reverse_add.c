@@ -1,4 +1,4 @@
-/****** C program to reverse the digits of the given number and find addition of original and reversed number ***/
+/***** C program to reverse the digits of the given number and find addition of original and reversed number ***/
 
 #include<Stdio.h>
 
