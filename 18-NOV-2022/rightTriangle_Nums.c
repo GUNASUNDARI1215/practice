@@ -1,14 +1,10 @@
 /***  C program for Right Triangle Number Pattern Printing*******
 
-ouput: 
-1
-
-23
-
-456
-
-78910
-
+input: rows=4
+ouput:  1
+		23
+		456
+		78910
 */
 
 #include<stdio.h>
@@ -21,7 +17,7 @@ int main()
 	
 	int i,j,num;
 	
-	for(i=0;i<rows;i++)
+	for(i=0;i<=rows;i++)
 	{
 		for(j=0;j<i;j++)
 		{

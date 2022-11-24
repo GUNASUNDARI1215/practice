@@ -1,4 +1,11 @@
-/****** c program for Numbered Square Printing***********/
+/****** c program for Numbered Square Printing**********
+
+Input: rows=4
+ouput:  1111
+		1111
+		1111
+		1111
+*/
 
 #include<stdio.h>
 

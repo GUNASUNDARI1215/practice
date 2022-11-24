@@ -1,4 +1,11 @@
-/****** C program Internal Varsity Number Square Printing**********/
+/****** C program Internal Varsity Number Square Printing*********
+
+Input: rows:4
+Output: 333
+		313
+		323
+		333
+*/
 
 #include<stdio.h>
 
